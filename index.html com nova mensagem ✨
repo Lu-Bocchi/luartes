@@ -1,30 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Meu Cantinho</title>
-  <style>
-    body {
-      background-color: #fff0f5; /* Rosa claro suave */
-      color: #5C2C06; /* Marrom suave para o texto */
-      font-family: 'Georgia', serif;
-      text-align: center;
-      padding: 60px 20px;
-    }
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meu Cantinho</title>
+    <style>
+      body {
+        background-color: #f7b6c2; /* Rosa médio com presença */
+        color: #5C2C06; /* Marrom suave para o texto */
+        font-family: 'Georgia', serif;
+        text-align: center;
+        padding: 60px 20px;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        letter-spacing: 0.05em;
+        line-height: 1.6;
+        margin: 0;
+      }
 
-    h1 {
-      font-size: 3em;
-      margin-bottom: 0.4em;
-    }
+      h1 {
+        font-size: 3em;
+        margin-bottom: 0.4em;
+      }
 
-    p {
-      font-size: 1.3em;
-    }
-  </style>
-</head>
-<body>
-  <h1>Bem-vindo ao Meu Cantinho 🎶</h1>
-  <p>Aqui vai ter música, oração, poesia e memórias... Tudo no seu tempo.</p>
-</body>
+      p {
+        font-size: 1.3em;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Bem-vindo ao Meu Cantinho 🎸💜</h1>
+    <p>Aqui vai ter música, oração, poesia e memórias... Tudo no seu tempo.</p>
+  </body>
 </html>
