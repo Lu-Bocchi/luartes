@@ -4,9 +4,27 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Meu Cantinho</title>
+  <style>
+    body {
+      background-color: #fff0f5; /* Rosa claro suave */
+      color: #5C2C06; /* Marrom suave para o texto */
+      font-family: 'Georgia', serif;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 0.4em;
+    }
+
+    p {
+      font-size: 1.3em;
+    }
+  </style>
 </head>
 <body>
-  <h1>Bem-vinda ao Cantinho da Gúh 🌸</h1>
-  <p>Aqui mora a arte com alma, poesia com raiz e oração que embala o tempo.</p>
+  <h1>Bem-vindo ao Meu Cantinho 🎶</h1>
+  <p>Aqui vai ter música, oração, poesia e memórias... Tudo no seu tempo.</p>
 </body>
 </html>
